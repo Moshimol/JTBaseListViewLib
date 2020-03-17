@@ -1,0 +1,16 @@
+PODS:
+  - JTBaseListViewLib (0.1.0)
+
+DEPENDENCIES:
+  - JTBaseListViewLib (from `../`)
+
+EXTERNAL SOURCES:
+  JTBaseListViewLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JTBaseListViewLib: baf5ef5a12aeb6864f470ff28a9956174b55b6aa
+
+PODFILE CHECKSUM: b07fb7abd6c7a2e968dbf5ac2ba02334a1bc6558
+
+COCOAPODS: 1.8.4
